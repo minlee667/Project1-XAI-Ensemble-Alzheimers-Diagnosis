@@ -1,1 +1,10 @@
 
+SHAP TreeExplainer for XGBoost
+
+SHAP KernelExplainer for ANN
+
+Global SHAP summary plots
+
+Local SHAP force plots
+
+Feature importance analysis consistent with paper findings
