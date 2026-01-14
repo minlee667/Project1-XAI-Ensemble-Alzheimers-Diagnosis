@@ -1,9 +1,17 @@
-Framework architecture diagram
+docs/
+├── architecture.png
+├── methodology.md
+├── paper.pdf
+└── figures/
+    ├── roc_lg.png
+    ├── roc_xgboost.png
+    ├── roc_ensemble.png
+    ├── roc_progression_ann.png
+    ├── confusion_matrix_lg.png
+    ├── confusion_matrix_xgboost.png
+    ├── confusion_matrix_ensemble.png
+    ├── confusion_matrix_progression_ann.png
+    ├── shap_summary_xgboost.png
+    ├── shap_summary_ann.png
+    ├── shap_force_example.png
 
-Pipeline workflow figure
-
-Mathematical formulation reference
-
-Paper PDF or preprint
-
-Future work and limitations
