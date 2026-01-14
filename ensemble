@@ -1,0 +1,7 @@
+Stacked ensemble implementation
+
+Meta learner Logistic Regression
+
+Probability level fusion from LR XGB ANN
+
+Training and inference pipeline
